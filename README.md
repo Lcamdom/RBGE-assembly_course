@@ -1,1 +1,1 @@
-# RBGE-assembly_course
+# RBGE-GATC
