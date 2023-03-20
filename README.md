@@ -1,7 +1,7 @@
 # GATC (Genome Assembly - Tools and Concepts)
 RBGE Bioinformatics Training week- March 2023
 
-### *Course timetable*
+### Course timetable
 
 <img width="582" alt="Screenshot 2023-03-14 at 17 59 36" src="https://user-images.githubusercontent.com/28604909/226327360-4f29935c-7c6b-47d6-bba6-4a529de7d483.png">
 
